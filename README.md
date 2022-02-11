@@ -1,4 +1,4 @@
-# UNIR Curso Experto Desarrollo Aplicaciones Blockchain
+# Curso Experto Desarrollo Aplicaciones Blockchain
 
 ## Laboratorio de Testing
 
